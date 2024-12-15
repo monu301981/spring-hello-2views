@@ -26,7 +26,7 @@ Spring app with default view and another Requestmapping view
 # Basic source of code
 
 1. Go to https://start.spring.io
-2. Select Dependencies - Web, Security, JPA, H2, Jersey, Jasper
+2. Select Dependencies - Web, Security, JPA, H2, Jersey, Jasper, DevTools
 
 
 # Useful links:
