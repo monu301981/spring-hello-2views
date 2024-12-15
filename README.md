@@ -37,4 +37,4 @@ Display JSP pages: https://www.logicbig.com/tutorials/spring-framework/spring-bo
 
 1. If your username folder in Users/ folder has spaces the maven commands will not work.
 2. The application fails in mvnw.cmd file. 
-3. A work around for this is to replace $HOME with "/~/", which denotes the current user folder.
+3. A work around for this is to replace $HOME in mvnw.cmd file with "/~/", which denotes the current user folder.
